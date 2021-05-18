@@ -1,0 +1,13 @@
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\bin\Release\Data_Access.dll
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\bin\Release\Data_Access.pdb
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\bin\Release\Data_Access.xml
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\bin\Release\MySql.Data.dll
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\bin\Release\RVLFuncionesUtilidades.dll
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\bin\Release\RVLFuncionesUtilidades.pdb
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\bin\Release\RVLFuncionesUtilidades.xml
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\obj\Release\Data_Access.vbprojResolveAssemblyReference.cache
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\obj\Release\Data_Access.Resources.resources
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\obj\Release\Data_Access.vbproj.GenerateResource.Cache
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\obj\Release\Data_Access.dll
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\obj\Release\Data_Access.xml
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\obj\Release\Data_Access.pdb

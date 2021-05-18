@@ -1,0 +1,13 @@
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\bin\Debug\Data_Access.dll
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\bin\Debug\Data_Access.pdb
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\bin\Debug\Data_Access.xml
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\bin\Debug\MySql.Data.dll
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\bin\Debug\RVLFuncionesUtilidades.dll
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\bin\Debug\RVLFuncionesUtilidades.pdb
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\bin\Debug\RVLFuncionesUtilidades.xml
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\obj\Debug\Data_Access.Resources.resources
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\obj\Debug\Data_Access.vbproj.GenerateResource.Cache
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\obj\Debug\Data_Access.dll
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\obj\Debug\Data_Access.xml
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\obj\Debug\Data_Access.pdb
+C:\PROYECTOS\Portal SIM\App\WebPortal\Data_Access\obj\Debug\Data_Access.vbprojResolveAssemblyReference.cache
